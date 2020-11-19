@@ -5,7 +5,7 @@
 
 ## How to create a local server for testing (node js) :
 - Step1 : Install NodeJs: https://nodejs.org/en/download/
-- Step3 : Download the github Repo and open LocalServer folder.
+- Step2 : Download the github Repo and open LocalServer folder.
 - Step3 : Click on Run_Local_Server.bat file.
 
 
